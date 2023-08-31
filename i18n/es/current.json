@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Technical Documentation": {
+    "message": "Documentacion Tecnica",
+    "description": "The label for category Technical Documentation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Backend": {
+    "message": "Backend",
+    "description": "The label for category Backend in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.FrontEnd": {
+    "message": "FrontEnd",
+    "description": "The label for category FrontEnd in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "Guia de Usuario",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  }
+}
