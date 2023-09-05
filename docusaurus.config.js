@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon_io/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cea-comfamiliar.github.io/',
+  url: 'https://cea-comfamiliar.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/im-user_guide',
